@@ -9,7 +9,7 @@ Hello Champ, My name's Jenny!! Super excited to have you meet me.❤
 </h3>
 
 <h2 align="center">
-I'm a Data Scientists who also loves Machine Learning and Artificial Intelligence.💻
+I'm a Data Scientist who also loves Machine Learning and Artificial Intelligence.💻
 </h2>
 
 I am fascinated by the entire idea of teaching a machine how to learn. I also love to work with data and I love maths. I love how innovative and dynamic the world of DS/AI/ML is. Making life easier and computers smarter for people is something I plan to dedicate my entire life to.
@@ -45,7 +45,7 @@ I am fascinated by the entire idea of teaching a machine how to learn. I also lo
 
 ## 🤔 I’m looking for help with ...
 
-- A study buddy for Data Scienece and Machine Learning
+- A study buddy for Data Science and Machine Learning
 
 ## ⚡ Fun fact: ...
 
