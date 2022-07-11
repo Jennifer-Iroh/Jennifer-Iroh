@@ -1,27 +1,34 @@
-<p align = "center">
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" width="200"/>
+</div>
 
-<img src = "https://user-images.githubusercontent.com/66979765/164052319-16b25665-9cd9-4c8d-ac47-30698d5a969a.png ">
+<div id="badges" align= "center">
+  <a href="https://www.linkedin.com/in/jennifer-iroh-68a179185/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://mobile.twitter.com/2204mph">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Jennifer-Iroh&style=flat-square&color=blue" />
 </p>
 
 <h3 align ="center">
 Hello Champ, My name's Jenny!! Super excited to have you meet me.❤
 </h3>
+<hr/>
+
+<p align = "center">
+<img src = "https://user-images.githubusercontent.com/66979765/164052319-16b25665-9cd9-4c8d-ac47-30698d5a969a.png ">
+</p>
 
 <h2 align="center">
-I'm a Data Scientist who also loves Machine Learning and Artificial Intelligence.💻
+I'm a Front End Developer who is studying to become a Full Stack Software Engineer💻
 </h2>
 
-I am fascinated by the entire idea of teaching a machine how to learn. I also love to work with data and I love maths. I love how innovative and dynamic the world of DS/AI/ML is. Making life easier and computers smarter for people is something I plan to dedicate my entire life to.
-
-### 🤝 Connect with me:
-
-<a href="https://www.linkedin.com/in/jennifer-iroh-68a179185/"><img align="left" src="./images/linkedin.png" alt="Jennifer Iroh | LinkedIn" width="21px"/></a>
-<a href="https://mobile.twitter.com/iCaligrapher"><img align="left" src="./images/twitter.png" alt="Jennifer Iroh | Twitter" width="21px"/></a>
-<a href="https://irohjenny.medium.com/"><img align="left" src="./images/medium.png" alt="Jennifer Iroh| Medium" width="21px"/></a>
-</br>
-
-- 💬 Please feel free to reach out to me for further conversations.
+I am fascinated by the idea of writing programmes to make life easier for people. Making life easier and computers smarter for people is something I plan to dedicate my entire life to.
 
 ## 😄 My Pronouns are:
 
@@ -29,23 +36,23 @@ I am fascinated by the entire idea of teaching a machine how to learn. I also lo
 
 ## 🔭 I'm currently working on:
 
-- Perfecting my use of Python
+- Learning React
+- Learning Node.js
+- Learning SQL
 
 ## 🌱 I'm currently learning:
 
-- 🐍 Python
+- React and building well crafted front end projects
 
 ## 📚 I'm currently reading:
 
 - Computer Science Distilled by Wladston Ferreira Filho
 
-- Pyton Crash Course by Eric Matthes
-
-- Data Science for Beginners - Andrew Park
+- Eloquent JavsScript by Marijn Haverbeke
 
 ## 🤔 I’m looking for help with ...
 
-- A study buddy for Data Science and Machine Learning
+- A Software engineering Internship to better my skills and teach me to work on real life projects
 
 ## ⚡ Fun fact: ...
 
@@ -70,22 +77,14 @@ I am fascinated by the entire idea of teaching a machine how to learn. I also lo
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E)
 ![](https://img.shields.io/badge/Tools-AdobeXd-informational??style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
+### 🤝 Contact Me:
+
+- 💬 Please feel free to reach out to me for further conversations on LinkedIn <a href="https://www.linkedin.com/in/jennifer-iroh-68a179185/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" height="15px" alt="LinkedIn Badge"/>
+  </a>
+  </br>
+
 ## 📈 GitHub Stats
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Jennifer-Iroh)](https://github.com/Jennifer-Iroh)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jennifer-Iroh&layout=compact)](https://github.com/Jenifer-Iroh)
-
-<!--
-**Jennifer-Iroh/Jennifer-Iroh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
